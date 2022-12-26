@@ -1,0 +1,14 @@
+.skip-button {
+  background-color: transparent;
+  font-family: 'Bree Serif';
+  border: 1px solid #77a8f7;
+  border-radius: 5px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 14px;
+  padding-right: 14px;
+  align-self: flex-end;
+  color: #77a8f7;
+  margin: 10px;
+  cursor: pointer;
+}
